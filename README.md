@@ -9,3 +9,6 @@ Generate incremented IDs from a starting index. Especially helpful for generatin
 - Select "Generate IDs from Index" from the command palette
 - Enter the starting index number
 - Enjoy your new numbers!
+
+## Demo
+![Demo](assets/demo.gif)
